@@ -11,17 +11,17 @@
                             "WARN"     : "Warn"
                            },
                   "yt" :   {
-                            "N_SONG"   : "*🧜‍♀️💬ENTER A SONG NAME*\nex : .song faded" ,
+                            "N_SONG"   : "*⚡ENTER A SONG NAME*\nex : .song faded" ,
                             "NOT_SONG" : "*SONG NOT FOUND‼️*" ,
                             "S_YT"     : "*🔍SEARCHING ON YOUTUBE...*" ,
-                            "N_YT"     : "*🧜‍♀️💬ENTER A TOPIC* \nex : .getyt sri lanka cricket" ,
-                            "N_VID"    : "*🧜‍♀️💬ENTER A YOUTUBE VIDEO LINK*\nex : .video https://youtu.be/pyCIKli4YUA" ,
-                            "N_FB"     : "*🧜‍♀️💬ENTER A FACEBOOK VIDEO LINK*" , 
-                            "N_MF"     : "*🧜‍♀️💬ENTER A MEDIAFIRE LINK*" , 
-                            "N_TIK"    : "*🧜‍♀️💬ENTER A TIKTOK VIDEO LINK*" ,
+                            "N_YT"     : "*⚡ENTER A TOPIC* \nex : .getyt sri lanka cricket" ,
+                            "N_VID"    : "*⚡ENTER A YOUTUBE VIDEO LINK*\nex : .video https://youtu.be/pyCIKli4YUA" ,
+                            "N_FB"     : "*⚡ENTER A FACEBOOK VIDEO LINK*" , 
+                            "N_MF"     : "*⚡ENTER A MEDIAFIRE LINK*" , 
+                            "N_TIK"    : "*⚡ENTER A TIKTOK VIDEO LINK*" ,
                             "NOT_VID"  : "*VIDEO NOT FOUND‼️*", 
-                            "N_IG "    : "🧜‍♀️💬ENTER A INSTAGRAM LINK",
-                            "N_FOUND"  : "*NOT FOUND‼️*"
+                            "N_IG "    : "⚡ENTER A INSTAGRAM LINK",
+                            "N_FOUND"  : "*NOT FOUND⚠️️*"
                           } ,
                 "admin" : {  
                              "UR_NOT_ADMIN": "*You are not admin in this group!*",
@@ -40,16 +40,16 @@
     
                            } ,
                 "stic" : {
-                              "NEED"   : "*🧜‍♀️💬 please mention an image or video*" ,
+                              "NEED"   : "*⚡Please mention an image or video*" ,
                               "C_STIC" : "```🧰creating sticker...```" ,
-                              "N_STIC" : "*🧜‍♀️💬 Please mention a sticker.*" ,
+                              "N_STIC" : "*⚡Please mention a sticker.*" ,
                               "C_IMG"  : "```🧰converting sticker to image...```" ,
                               "C_VID"  : "```🧰converting animated sticker to video...```" 
                            },
                
                 "apk"  :  {  
-                              "N_LINK" : "*🧜‍♀️💬 Enter a google playstore app link .*" ,
-                              "ERROR"  : "*🧜‍♀️💬APK Not Found!.*"
+                              "N_LINK" : "*⚡Enter a google playstore app link .*" ,
+                              "ERROR"  : "*⚡APK Not Found!.*"
     
                            },
          "filters": {
